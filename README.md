@@ -6,3 +6,8 @@ Nama Mahasiswa      : Moh. Andrian Maftuh Ahnan
 NPM                 : 2313020182
 
 Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah Software Development.
+
+# Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
